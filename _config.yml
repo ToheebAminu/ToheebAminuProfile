@@ -7,7 +7,7 @@ url: "https://ToheebAminu.github.io"
 baseurl: "/ToheebAminu_profile"
 repository: "ToheebAminu/ToheebAminu_profile"
 header:
-  image: /assets/images/banner-husky.jpg
+  image: /assets/images/Passport1.jpeg
 
 include:
   - _pages
