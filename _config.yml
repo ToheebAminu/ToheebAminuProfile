@@ -37,14 +37,13 @@ minimal_mistakes_skin: "contrast"
 
 # settings for author profile
 author:
-  name   : "Mission III"
-  avatar : "/assets/images/banner-husky.jpg"
-  bio    : "My name is Mission III, and I am the official Huskie mascot at Northern Illinois University."
+  name   : "Aminu Toheeb"
+  avatar : "/assets/images/_DMJ5827 5x5.jpg"
+  bio    : "My name is Toheeb Aminu, a graduate student of Economics at Northern Illinois University."
   location: "DeKalb, Illinois"
-  github : 
-  linkedin: "school/northern-illinois-university" #This is a fake site that won't work. To add your own, make sure to include just the profile, not the full url. Eg. anna-klis-1337a150
-  email  : 
-
+  github : ToheebAminu
+  linkedin: "toheeb-aminu-50a177125"
+  email  : "Aminu.toheeb.23@gmail.com" 
 
 # # comments by disqus
 #comments:
